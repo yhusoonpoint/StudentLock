@@ -1,0 +1,38 @@
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\bin\Debug\StudentLock.exe.config
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\obj\Debug\StudentLock.csprojResolveAssemblyReference.cache
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\obj\Debug\StudentLock.Properties.Resources.resources
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\obj\Debug\NichsLightningLaunch.StudentLock.resources
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\obj\Debug\StudentLock.csproj.GenerateResource.Cache
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\bin\Debug\StudentLock.exe
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\bin\Debug\StudentLock.pdb
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\obj\Debug\StudentLock.exe
+c:\users\12nelliott\documents\visual studio 2012\Projects\StudentLock\StudentLock\obj\Debug\StudentLock.pdb
+D:\StudentLock\StudentLock\bin\Debug\StudentLock.exe.config
+D:\StudentLock\StudentLock\obj\Debug\StudentLock.exe
+D:\StudentLock\StudentLock\obj\Debug\StudentLock.pdb
+E:\StudentLock\StudentLock\bin\Debug\StudentLock.exe.config
+E:\StudentLock\StudentLock\obj\Debug\StudentLock.exe
+E:\StudentLock\StudentLock\obj\Debug\StudentLock.pdb
+E:\StudentLock\StudentLock\bin\Debug\StudentLock.exe
+E:\StudentLock\StudentLock\bin\Debug\StudentLock.pdb
+E:\StudentLock\StudentLock\obj\Debug\StudentLock.csprojResolveAssemblyReference.cache
+E:\StudentLock\StudentLock\obj\Debug\StudentLock.Properties.Resources.resources
+E:\StudentLock\StudentLock\obj\Debug\StudentLock.csproj.GenerateResource.Cache
+F:\StudentLock\StudentLock\bin\Debug\StudentLock.exe.config
+F:\StudentLock\StudentLock\obj\Debug\StudentLock.exe
+F:\StudentLock\StudentLock\obj\Debug\StudentLock.pdb
+F:\StudentLock\StudentLock\bin\Debug\StudentLock.exe
+F:\StudentLock\StudentLock\bin\Debug\StudentLock.pdb
+F:\StudentLock\StudentLock\obj\Debug\StudentLock.Properties.Resources.resources
+F:\StudentLock\StudentLock\obj\Debug\NichsLightningLaunch.StudentLock.resources
+F:\StudentLock\StudentLock\obj\Debug\StudentLock.csproj.GenerateResource.Cache
+E:\StudentLock\StudentLock\obj\Debug\NichsLightningLaunch.StudentLock.resources
+D:\StudentLock\StudentLock\bin\Debug\StudentLock.exe
+D:\StudentLock\StudentLock\bin\Debug\StudentLock.pdb
+D:\StudentLock\StudentLock\obj\Debug\StudentLock.csprojResolveAssemblyReference.cache
+D:\StudentLock\StudentLock\obj\Debug\StudentLock.Properties.Resources.resources
+D:\StudentLock\StudentLock\obj\Debug\NichsLightningLaunch.StudentLock.resources
+D:\StudentLock\StudentLock\obj\Debug\StudentLock.csproj.GenerateResource.Cache
+C:\Users\Abdul\OneDrive\Documents\c# Programming\StudentLock\StudentLock\bin\Debug\StudentLock.exe.config
+C:\Users\Abdul\OneDrive\Documents\c# Programming\StudentLock\StudentLock\obj\Debug\StudentLock.exe
+C:\Users\Abdul\OneDrive\Documents\c# Programming\StudentLock\StudentLock\obj\Debug\StudentLock.pdb
